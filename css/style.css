@@ -174,3 +174,20 @@ main.content > h1 {
 .services {
   flex: 1;
 }
+
+
+
+
+@media (max-width: 768px) {
+  .header {
+    flex-direction: column;
+  }
+
+  main.content {
+    flex-direction: column;
+  }
+
+  .benefits {
+    width: 100%;
+  }
+}
