@@ -91,6 +91,10 @@ main.content {
   margin: 0 20px;
 }
 
+main.content > h1 {
+  flex-basis: 100%;
+}
+
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -159,4 +163,14 @@ main.content {
 
 .footer-title {
   font-size: 20px;
+}
+
+.marketing {
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+}
+
+.services {
+  flex: 1;
 }
