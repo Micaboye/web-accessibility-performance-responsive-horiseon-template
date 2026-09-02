@@ -1753,3 +1753,16 @@ Du skal kunne forklare mindst:
 # Afsluttende note
 
 > Formålet er ikke kun at opnå høje Lighthouse-scores. Formålet er at lære at analysere eksisterende HTML og CSS, forbedre webtilgængelighed, optimere ressourcer og udvikle et robust responsive layout med begrundede tekniske valg.
+
+
+
+
+
+## Mine resultater
+
+### Lighthouse
+
+| Måling | Før | Efter |
+|---|---:|---:|
+| Accessibility | 92 | 100 |
+| Performance | 75 | 98 |
